@@ -1,0 +1,6 @@
+Using Gradient Descent for minimizing cost functions
+https://towardsdatascience.com/introduction-to-logistic-regression-66248243c148
+https://machinelearningmastery.com/logistic-regression-for-machine-learning/
+
+Using Newton's Method for minimizing cost functions
+https://github.com/llSourcell/logistic_regression_newtons_method/blob/master/NewtonCode.ipynb
