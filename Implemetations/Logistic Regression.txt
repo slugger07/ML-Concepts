@@ -1,3 +1,6 @@
+Basic Understanding
+https://medium.com/deep-math-machine-learning-ai/chapter-2-0-logistic-regression-with-math-e9cbb3ec6077
+
 Using Gradient Descent for minimizing cost functions
 https://towardsdatascience.com/introduction-to-logistic-regression-66248243c148
 https://machinelearningmastery.com/logistic-regression-for-machine-learning/
